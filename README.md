@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hi%20there%20%F0%9F%A4%97)
-# 👋 Hi there 
+## 👋 Hi there 
 아직 배우는 중입니다! 잘 부탁드려요 🤗
 
-# 👤 About Me
-- 🎓 **전공:** 기술데이터공학 / 복수전공 컴퓨터공학
+## 👤 About Me
+- 🎓 **전공:** 산업공학 / 복수전공 컴퓨터공학
 - 💻 **관심 분야:** 백엔드 개발
 - 🚀 **사용 기술 스택:**
   <div>
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   </div>
 
-# ✉️ Contact
+## ✉️ Contact
 이메일로 연락주세요! cjww543210@pukyong.ac.kr
 
 <!--
