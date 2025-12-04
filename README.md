@@ -2,7 +2,7 @@
 ## 👋 Hi there 
 아직 배우는 중입니다! 잘 부탁드려요 🤗
 
-## 👤 About Me
+## 👤 자기소개
 - 👋 **이름:** 최지웅(cjww543210)
 - 🎓 **전공:** 산업공학 / 복수전공 컴퓨터공학
 - 💻 **관심 분야:** 백엔드 개발
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   </div>
 
-## ✉️ Contact
+## ✉️ 연락처
 이메일로 연락주세요!<br>
 cjww543210@pukyong.ac.kr
 <p align="left"><a href="https://velog.io/@cjww543210/posts"><img src="http://img.shields.io/badge/💻 Blog-655ced?style=for-the-badge&color=5FC397" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
