@@ -12,6 +12,10 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   </div>
 
 ## ✉️ Contact
@@ -22,14 +26,14 @@
 ### BodyBuddy
 - **설명**: 개인 맞춤형 헬스케어 어플리케이션  
 - **Github 저장소**: [BodyBuddy](https://github.com/djswn/BodyBuddy)  
-- **프로젝트 목적**:  
+- **프로젝트 목적**:
   비용을 들이지 않고 간편하게 식단 관리를 할 수 있도록 도움을 주고자 함<br>
   그래프와 체중 변화를 그래프로 시각화해 추세를 쉽게 확인할 수 있어,<br>
   사용자의 체중 변화를 반영하여 캐릭터 이미지가 변화하도록 함으로써 다이어트 진행 상황을 직관적으로 보여주어 동기를 부여
 
 ## 👥 프로젝트에서 맡고 있는 역할
 - **역할**: 백엔드 및 프론트엔드 개발
-- **업무 내용**:
+- **업무 내용**:<br>
   버그 수정 및 이슈 트래킹<br>
   일일 데이터 저장 및 그래프 기능 구현<br>
   캐릭터 제작 및 프론트엔드 디자인 구성
@@ -52,12 +56,18 @@
   - 이슈 등록 및 개선 제안
   - 영문 문서 한글 번역 작업
 
-
 ### 학습용 저장소 목록
   - [OSS](https://github.com/cjww543210/OSS)  
   → 오픈소스소프트웨어 Github 실습을 위한 브랜치
   - [Statify](https://github.com/cjww543210/statify-opensource-software)  
   → Statify 오픈소스 기여를 위한 포크 브랜치
+- **사용 기술 스택:**
+  <div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  </div>
 
 <!--
 **cjww543210/cjww543210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
