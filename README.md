@@ -39,6 +39,11 @@
   캐릭터 제작 및 프론트엔드 디자인 구성
 
 ## 📊 GitHub 활동 내역
+### Contribution history
+![Commit](https://img.shields.io/github/commit-activity/m/cjww543210/OSS?style=for-the-badge&logo=github&label=Monthly%20Commits)
+![Pull Requests](https://img.shields.io/github/issues-pr-closed/cjww543210/OSS?style=for-the-badge&logo=github&label=Merged%20PRs)
+![Issues](https://img.shields.io/github/issues-closed/cjww543210/OSS?style=for-the-badge&logo=github&label=Closed%20Issues)
+
 ### Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=cjww543210&theme=react)
 
@@ -58,9 +63,9 @@
 
 ### 학습용 저장소 목록
 - [OSS](https://github.com/cjww543210/OSS)  
-- 오픈소스소프트웨어 Github 실습을 위한 브랜치
+- **설명**: 오픈소스소프트웨어 Github 실습을 위한 브랜치
 - [Statify](https://github.com/cjww543210/statify-opensource-software)  
-- Statify 오픈소스 기여를 위한 포크 브랜치
+- **설명**: Statify 오픈소스 기여를 위한 포크 브랜치
 - **사용 기술 스택:**
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
