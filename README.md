@@ -45,11 +45,13 @@
 ![](https://streak-stats.demolab.com?user=cjww543210&theme=react&hide_border=true)
 
 ### 참여 중인 오픈소스 프로젝트
-  - [Statify](https://github.com/rriver2/statify-opensource-software)
-- **프로젝트 설명**: Spotify 데이터 분석 및 시각화 도구
+#### Statify
+- **프로젝트 설명**: 차량 예약 데이터 분석 및 시각화 프로젝트  
+- **Github 저장소**: [Statify](https://github.com/rriver2/statify-opensource-software) 
 - **기여 내용**: 
   - 이슈 등록 및 개선 제안
   - 영문 문서 한글 번역 작업
+
 
 ### 학습용 저장소 목록
   - [OSS](https://github.com/cjww543210/OSS)  
