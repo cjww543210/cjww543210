@@ -30,7 +30,8 @@
   </div>
 
 ## ✉️ Contact
-이메일로 연락주세요! cjww543210@pukyong.ac.kr
+이메일로 연락주세요!<br>
+cjww543210@pukyong.ac.kr
 <p align="left"><a href="https://velog.io/@cjww543210/posts"><img src="http://img.shields.io/badge/💻 Blog-655ced?style=for-the-badge&color=5FC397" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
 
 ## 🚀 현재 진행 중인 프로젝트 소개
