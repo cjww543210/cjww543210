@@ -20,7 +20,7 @@
 ## 🚀 현재 진행 중인 프로젝트 소개
 ### BodyBuddy
 - **설명**: 개인 맞춤형 헬스케어 어플리케이션  
-- **Github 저장소**: [BodyBuddy Repository](https://github.com/djswn/BodyBuddy)  
+- **Github 저장소**: [BodyBuddy](https://github.com/djswn/BodyBuddy)  
 - **프로젝트 목적**:  
   비용을 들이지 않고 간편하게 식단 관리를 할 수 있도록 도움을 주고자 함
   그래프와 체중 변화를 그래프로 시각화해 추세를 쉽게 확인할 수 있어,
@@ -42,6 +42,14 @@
 
 ### Commit Streak
 ![](https://streak-stats.demolab.com?user=cjww543210&theme=react&hide_border=true)
+
+### 참여 중인 오픈소스 프로젝트
+  - [Statify](https://github.com/rriver2/statify-opensource-software)
+### 학습용 저장소 목록
+  - [OSS](https://github.com/cjww543210/OSS)  
+  → 오픈소스소프트웨어 Github 실습을 위한 브랜치
+  - [Statify](https://github.com/cjww543210/statify-opensource-software)  
+  → Statify 오픈소스 기여를 위한 포크 브랜치
 
 <!--
 **cjww543210/cjww543210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
