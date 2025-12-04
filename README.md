@@ -40,9 +40,10 @@
 
 ## 📊 GitHub 활동 내역
 ### Contribution history
-![Commit](https://img.shields.io/github/commit-activity/m/cjww543210/OSS?style=for-the-badge&logo=github&label=Monthly%20Commits)
-![Pull Requests](https://img.shields.io/github/issues-pr-closed/cjww543210/OSS?style=for-the-badge&logo=github&label=Merged%20PRs)
-![Issues](https://img.shields.io/github/issues-closed/cjww543210/OSS?style=for-the-badge&logo=github&label=Closed%20Issues)
+<div align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cjww543210&theme=react)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cjww543210&theme=react)
+</div>
 
 ### Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=cjww543210&theme=react)
