@@ -69,6 +69,25 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   </div>
 
+## 🏆 GitHub Actions & Badges
+
+<div align="center">
+
+### Project Status Badges
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
+![Code Quality](https://img.shields.io/badge/code%20quality-A-brightgreen?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+
+### Activity Badges
+
+![Commits](https://img.shields.io/badge/commits-100%2B-blue?style=for-the-badge&logo=github)
+![Pull Requests](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/badge/issues-open-yellow?style=for-the-badge&logo=github)
+
+</div>
+
 <!--
 **cjww543210/cjww543210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
