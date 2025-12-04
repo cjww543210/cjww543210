@@ -3,7 +3,7 @@
 아직 배우는 중입니다! 잘 부탁드려요 🤗
 
 ## 👤 About Me
-- 👋 **전공:** 최지웅(cjww543210)
+- 👋 **이름:** 최지웅(cjww543210)
 - 🎓 **전공:** 산업공학 / 복수전공 컴퓨터공학
 - 💻 **관심 분야:** 백엔드 개발
 - 🚀 **사용 기술 스택:**
@@ -23,8 +23,8 @@
 - **설명**: 개인 맞춤형 헬스케어 어플리케이션  
 - **Github 저장소**: [BodyBuddy](https://github.com/djswn/BodyBuddy)  
 - **프로젝트 목적**:  
-  비용을 들이지 않고 간편하게 식단 관리를 할 수 있도록 도움을 주고자 함
-  그래프와 체중 변화를 그래프로 시각화해 추세를 쉽게 확인할 수 있어,
+  비용을 들이지 않고 간편하게 식단 관리를 할 수 있도록 도움을 주고자 함<br>
+  그래프와 체중 변화를 그래프로 시각화해 추세를 쉽게 확인할 수 있어,<br>
   사용자의 체중 변화를 반영하여 캐릭터 이미지가 변화하도록 함으로써 다이어트 진행 상황을 직관적으로 보여주어 동기를 부여
 
 ## 👥 프로젝트에서 맡고 있는 역할
@@ -35,11 +35,11 @@
 - 캐릭터 제작 및 프론트엔드 디자인 구성
 
 ## 📊 GitHub 활동 내역
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjww543210&show_icons=true&theme=react)
+### GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=cjww543210&show_icons=true)
 
 ### Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=cjww543210&theme=react)
+![](https://github-readme-activity-graph.vercel.app/graph?username=cjww543210&theme=react)
 
 ### Activity Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjww543210&theme=react)
