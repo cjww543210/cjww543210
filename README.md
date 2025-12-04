@@ -49,18 +49,18 @@
 ![](https://streak-stats.demolab.com?user=cjww543210&theme=react&hide_border=true)
 
 ### 참여 중인 오픈소스 프로젝트
-#### Statify
+### Statify
 - **프로젝트 설명**: 차량 예약 데이터 분석 및 시각화 프로젝트  
 - **Github 저장소**: [Statify](https://github.com/rriver2/statify-opensource-software) 
 - **기여 내용**: 
-  - 이슈 등록 및 개선 제안
-  - 영문 문서 한글 번역 작업
+- 이슈 등록 및 개선 제안
+- 영문 문서 한글 번역 작업
 
 ### 학습용 저장소 목록
-  - [OSS](https://github.com/cjww543210/OSS)  
-    오픈소스소프트웨어 Github 실습을 위한 브랜치
-  - [Statify](https://github.com/cjww543210/statify-opensource-software)  
-    Statify 오픈소스 기여를 위한 포크 브랜치
+- [OSS](https://github.com/cjww543210/OSS)  
+- 오픈소스소프트웨어 Github 실습을 위한 브랜치
+- [Statify](https://github.com/cjww543210/statify-opensource-software)  
+- Statify 오픈소스 기여를 위한 포크 브랜치
 - **사용 기술 스택:**
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -68,25 +68,6 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   </div>
-
-## 🏆 GitHub Actions & Badges
-
-<div align="center">
-
-### Project Status Badges
-
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
-![Code Quality](https://img.shields.io/badge/code%20quality-A-brightgreen?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
-
-### Activity Badges
-
-![Commits](https://img.shields.io/badge/commits-100%2B-blue?style=for-the-badge&logo=github)
-![Pull Requests](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/badge/issues-open-yellow?style=for-the-badge&logo=github)
-
-</div>
 
 <!--
 **cjww543210/cjww543210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
