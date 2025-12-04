@@ -78,9 +78,9 @@ cjww543210@pukyong.ac.kr
 
 ### 학습용 저장소 목록
 - [OSS](https://github.com/cjww543210/OSS)  
-  **설명**: 오픈소스소프트웨어 Github 실습을 위한 브랜치
+  **설명**: 오픈소스소프트웨어 Github 실습을 위한 저장소
 - [Statify](https://github.com/cjww543210/statify-opensource-software)  
-  **설명**: Statify 오픈소스 프로젝트 기여를 위한 브랜치
+  **설명**: Statify 오픈소스 프로젝트 기여를 위한 저장소
 - **사용 기술 스택:**
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
