@@ -37,8 +37,8 @@
 ## 📊 GitHub 활동 내역
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cjww543210&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjww543210&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+![](https://github-readme-stats.vercel.app/api?username=cjww543210&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cjww543210&layout=compact&theme=react&hide_border=true&langs_count=8)
 </div>
 
 ### Contribution Graph
