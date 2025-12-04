@@ -17,6 +17,15 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   </div>
+- 🌱 **기술 로드맵:**
+  <div>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  </div>
 
 ## ✉️ Contact
 이메일로 연락주세요! cjww543210@pukyong.ac.kr
@@ -26,7 +35,7 @@
 ### BodyBuddy
 - **설명**: 개인 맞춤형 헬스케어 어플리케이션  
 - **Github 저장소**: [BodyBuddy](https://github.com/djswn/BodyBuddy)  
-- **프로젝트 목적**:
+- **프로젝트 목적**:<br>
   비용을 들이지 않고 간편하게 식단 관리를 할 수 있도록 도움을 주고자 함<br>
   그래프와 체중 변화를 그래프로 시각화해 추세를 쉽게 확인할 수 있어,<br>
   사용자의 체중 변화를 반영하여 캐릭터 이미지가 변화하도록 함으로써 다이어트 진행 상황을 직관적으로 보여주어 동기를 부여
@@ -60,15 +69,15 @@
 ### Statify
 - **프로젝트 설명**: 차량 예약 데이터 분석 및 시각화 프로젝트  
 - **Github 저장소**: [Statify](https://github.com/rriver2/statify-opensource-software) 
-- **기여 내용**: 
-- 이슈 등록 및 개선 제안
-- 영문 문서 한글 번역 작업
+- **기여 내용**:<br>
+  이슈 등록 및 개선 제안<br>
+  영문 문서 한글 번역 작업
 
 ### 학습용 저장소 목록
 - [OSS](https://github.com/cjww543210/OSS)  
-- **설명**: 오픈소스소프트웨어 Github 실습을 위한 브랜치
+  **설명**: 오픈소스소프트웨어 Github 실습을 위한 브랜치
 - [Statify](https://github.com/cjww543210/statify-opensource-software)  
-- **설명**: Statify 오픈소스 기여를 위한 포크 브랜치
+  **설명**: Statify 오픈소스 프로젝트 기여를 위한 브랜치
 - **사용 기술 스택:**
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
