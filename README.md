@@ -15,6 +15,7 @@
 
 ## ✉️ Contact
 이메일로 연락주세요! cjww543210@pukyong.ac.kr
+<p align="left"><a href="https://velog.io/@cjww543210/posts"><img src="http://img.shields.io/badge/💻 Blog-655ced?style=for-the-badge&color=5FC397" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
 
 <!--
 **cjww543210/cjww543210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
