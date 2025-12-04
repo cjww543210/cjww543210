@@ -35,12 +35,6 @@
 - 캐릭터 제작 및 프론트엔드 디자인 구성
 
 ## 📊 GitHub 활동 내역
-### GitHub Stats
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=cjww543210&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cjww543210&layout=compact&theme=react&hide_border=true&langs_count=8)
-</div>
-
 ### Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=cjww543210&theme=react)
 
@@ -52,6 +46,11 @@
 
 ### 참여 중인 오픈소스 프로젝트
   - [Statify](https://github.com/rriver2/statify-opensource-software)
+- **프로젝트 설명**: Spotify 데이터 분석 및 시각화 도구
+- **기여 내용**: 
+  - 이슈 등록 및 개선 제안
+  - 영문 문서 한글 번역 작업
+
 ### 학습용 저장소 목록
   - [OSS](https://github.com/cjww543210/OSS)  
   → 오픈소스소프트웨어 Github 실습을 위한 브랜치
