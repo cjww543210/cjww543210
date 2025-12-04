@@ -3,6 +3,7 @@
 아직 배우는 중입니다! 잘 부탁드려요 🤗
 
 ## 👤 About Me
+- 👋 **전공:** 최지웅(cjww543210)
 - 🎓 **전공:** 산업공학 / 복수전공 컴퓨터공학
 - 💻 **관심 분야:** 백엔드 개발
 - 🚀 **사용 기술 스택:**
@@ -34,6 +35,9 @@
 - 캐릭터 제작 및 프론트엔드 디자인 구성
 
 ## 📊 GitHub 활동 내역
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjww543210&show_icons=true&theme=react)
+
 ### Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=cjww543210&theme=react)
 
